@@ -1,0 +1,18 @@
+BP_20250513
+
+How to make Inventory
+-아이콘 추출
+-ST_Item, ST_ItemSlot, DT_Item 만들기
+-.csv: 메모장으로 DT수정가능함. .csv파일 수정하고 Reimport하기
+-인벤토리는 BP_ActorComponent로 만듦
+
+
+-SlotWidget -> Class Settings -> Interfaces -> UserObjectListEntry
+
+-
+-
+-
+-
+
+
+
