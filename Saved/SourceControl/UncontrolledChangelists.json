@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/SplatoonGame/Content/SplatoonGame/BP_WeaponBase.uasset",
+				"C:/SplatoonGame/Content/ThirdPerson/Blueprints/NewMaterial.uasset",
+				"C:/SplatoonGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/SplatoonGame/Content/SplatoonGame/BP_GoalPlane.uasset",
+				"C:/SplatoonGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/U6/RFVOJFAI537KRMJFTCDV6T.uasset",
+				"C:/SplatoonGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/SJ/3IF8L972ZA0KTNGGYZTE4A.uasset",
+				"C:/SplatoonGame/Content/SplatoonGame/HudWidget.uasset",
+				"C:/SplatoonGame/Content/SplatoonGame/Widgets/WBP_PlayerStatus.uasset",
+				"C:/SplatoonGame/Content/SplatoonGame/Widgets/WBP_StatusWidget.uasset",
+				"C:/SplatoonGame/Content/SplatoonGame/Widgets/WBP_MessageWidget.uasset",
+				"C:/SplatoonGame/Content/SplatoonGame/Widgets/WBP_ScoreWidget.uasset",
+				"C:/SplatoonGame/Content/SplatoonGame/BP_Hud.uasset",
+				"C:/SplatoonGame/Content/SplatoonGame/BP_Timer.uasset",
+				"C:/SplatoonGame/Content/SplatoonGame/WBP_HudWidget.uasset",
+				"C:/SplatoonGame/Content/SplatoonGame/Widgets/WBP_HudWidget.uasset",
+				"C:/SplatoonGame/Content/SplatoonGame/BP_SplatoonGameMode.uasset",
+				"C:/SplatoonGame/Content/SplatoonGame/Item/SM_Gun1.uasset",
+				"C:/SplatoonGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/HU/YAGD3EB1R38ERKKIAX4HLI.uasset"
+			]
+		}
+	]
+}

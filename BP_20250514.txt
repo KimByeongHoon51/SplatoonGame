@@ -1,0 +1,20 @@
+BP_20250513
+
+How to make Inventory
+-아이콘 추출
+-ST_Item, ST_ItemSlot, DT_Item 만들기
+-.csv: 메모장으로 DT수정가능함. .csv파일 수정하고 Reimport하기
+-인벤토리는 BP_ActorComponent로 만듦
+-SlotWidget -> Class Settings -> Interfaces -> UserObjectListEntry
+-HUD, Widget 작성
+
+
+BP_20250514
+-SlotWidget에 OnListItemObjectSet 이벤트 작성 후 HudWidget 수정
+-드래그 앤 드롭: SlotWidget에 Mouse 함수 작성
+-
+-WastebasketWidget 작성
+
+
+
+
